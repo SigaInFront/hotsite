@@ -1,0 +1,33 @@
+// default
+
+body {
+	cursor: default;
+	
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 10px;
+
+	background: url('../img/bg.jpg') no-repeat top center fixed;
+}
+
+
+// alignments
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+
+// container oveflow
+.container {
+	display: block;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
