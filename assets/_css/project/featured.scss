@@ -2,11 +2,14 @@
 
 .featured {
 	text-align: center;
+
+	padding-bottom: 40px;
 }
 
 .featured-title {
 	color: $text-1;
 	font-size: 4em;
+	margin-bottom: 20px;
 }
 
 .featured-text {
@@ -22,6 +25,16 @@
 
 	i {
 		margin-right: 4px;
+	}
+}
+
+.featured-date {
+	color: $text-1;
+	font-size: 3em;
+	font-weight: 800;
+
+	p {
+		margin: 0 0 10px;
 	}
 }
 
